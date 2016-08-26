@@ -14,7 +14,7 @@ A Syslog transport for [winston][0].
 
 ``` bash
   $ npm install winston 
-  $ npm install winston-syslog
+  $ npm install wiredrive/winston-syslog
 ```
 
 ## Motivation
